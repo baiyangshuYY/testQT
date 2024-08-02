@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dialog.ui</file>
+        <file>dialog2.ui</file>
+    </qresource>
+</RCC>
